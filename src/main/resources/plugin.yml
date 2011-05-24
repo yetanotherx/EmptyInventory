@@ -1,6 +1,6 @@
 name: EmptyInventory
 main: yetanotherx.bukkitplugin.EmptyInventory.EmptyInventory
-version: 1.0
+version: 1.1
 commands:
     empty:
         description: Erase your inventory. Use -all to clean the hotbar too.
