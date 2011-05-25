@@ -17,6 +17,7 @@
                 <configuration>
                     <archive>
                         <manifestEntries>
+                            <Built-By>yetanotherx</Built-By>
                             <Implementation-Title>EmptyInventory</Implementation-Title>
                             <Implementation-Version>${describe}</Implementation-Version>
                         </manifestEntries>
